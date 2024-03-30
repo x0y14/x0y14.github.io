@@ -1,0 +1,7 @@
+#repos li{
+    list-style-type: none;
+}
+.repo{
+    display: flex;
+    flex-direction: column;
+}
